@@ -11,7 +11,7 @@ These tools help detect vulnerabilities in container images and improve the secu
 ## 📖 Medium Blog
 
 📝 **Read the full article:**  
-[🔗 Securing Docker Images: A Hands-On Guide with Trivy, Grype, and Snyk](https://medium.com/your-medium-blog-link)  
+[🔗 Securing Docker Images: A Hands-On Guide with Trivy, Grype, and Snyk](https://medium.com/@prathameshsatyarthi1/why-docker-image-scanning-is-critical-and-how-to-use-trivy-grype-and-snyk-effectively-96a42c2b66a9)  
 > This blog explains **why Docker image scanning is important**, **what can go wrong without it**, and gives **real-world examples** of vulnerabilities. It includes step-by-step installation and scan outputs for Trivy, Grype, and Snyk — tested on an Azure Ubuntu VM.
 
 ## 📌 Prerequisites
